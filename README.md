@@ -69,7 +69,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 ### Importance of Identifying Design Properties
 Understanding design properties from mockups ensures consistency throughout the application, speeds up development, and helps maintain the intended user experience. By documenting color schemes, typography, and component patterns, we create a single source of truth that all team members can reference during implementation.
 
-## Team Roles and Responsibilities
+## Project Roles and Responsibilities
 
 | Role | Responsibilities |
 |------|------------------|
