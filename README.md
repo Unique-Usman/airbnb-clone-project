@@ -16,7 +16,7 @@ This project is tailored to enhance expertise in modern software development pra
 
 | Technology | Purpose |
 |------------|---------|
-| HTML/CSS/JavaScript | Frontend development for creating responsive user interfaces |
+| HTML/CSS/JavaScript (React or Other framework) | Frontend development for creating responsive user interfaces |
 | Django | Backend web framework for building RESTful APIs and business logic |
 | PostgreSQL | Relational database management system for data storage and retrieval |
 | GraphQL | API query language for flexible data fetching and manipulation |
